@@ -16,7 +16,7 @@ export class H2hComponent implements OnInit {
   pastGames2018: Array<Match> = [];
   pastGames2019: Array<Match> = [];
   homeWins: number = 0;
-  draw: number = 0;
+  draw: number =  0;
   awayWins: number =0;
   
 
