@@ -1,10 +1,4 @@
-
- 
-
-
-
-
- @-webkit-keyframes fade-in {
+@-webkit-keyframes fade-in {
   0% {
     opacity: 0;
   }
@@ -41,6 +35,36 @@ p{
   letter-spacing: 0.23em;
   text-align: center;
 }
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 40px;
+  letter-spacing: 0.23em;
+  text-align: center;
+}
+
+#leftside{
+  float:left;
+  width:50%
+  }
+
+  #rightside{
+    float:right;
+    width:50%
+    }
+
+#pcontent{
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: 300;
+  font-size: 13px;
+  text-align: left;
+  padding: 50px;
+  line-height: 150%;
+  }
 
 table{
   margin-left: auto;

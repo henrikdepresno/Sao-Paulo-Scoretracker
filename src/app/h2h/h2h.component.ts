@@ -80,7 +80,7 @@ export class H2hComponent implements OnInit {
   }
 
   getDate(match: Match): string {
-    let date = this.datepipe.transform(match.utcDate, 'MMM dd');
+    let date = this.datepipe.transform(match.utcDate, 'MMM dd, yyyy');
     return date;
   }
 
