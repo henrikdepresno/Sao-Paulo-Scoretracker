@@ -1,5 +1,7 @@
 # TestApp
 
+Head to https://sao-paulo-webapp.herokuapp.com/ to wake the app from sleep mode. The app fetches live data from an API and displays results for Sao Paulo. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
