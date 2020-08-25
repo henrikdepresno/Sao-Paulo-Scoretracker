@@ -1,4 +1,4 @@
-# TestApp
+# Sao-Paulo-Scoretracker
 
 Head to https://sao-paulo-webapp.herokuapp.com/ to wake the app from sleep mode. The app fetches live data from an API and displays results for Sao Paulo. 
 
